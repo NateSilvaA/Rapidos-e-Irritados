@@ -24,7 +24,7 @@ Quanto maior a velocidade do jogador e a distância percorrida, mais intenso se 
 
 ## 🎥 Demonstração
 
-![Demonstração do jogo](assets/gameplay.gif)
+![Demonstração do jogo](RapidosIrritados/assets/gameplay.gif)
 
 ## 🕹️ Controles
 
